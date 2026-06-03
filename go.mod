@@ -89,7 +89,7 @@ require (
 	github.com/prometheus/otlptranslator v1.0.0 // indirect
 	github.com/prometheus/prometheus v0.310.0 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
-	github.com/quic-go/quic-go v0.59.0 // indirect
+	github.com/quic-go/quic-go v0.59.1 // indirect
 	github.com/redis/go-redis/v9 v9.14.1 // indirect
 	github.com/rotisserie/eris v0.5.4 // indirect
 	github.com/segmentio/asm v1.1.3 // indirect
